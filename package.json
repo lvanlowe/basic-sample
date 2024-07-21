@@ -13,6 +13,9 @@
     "swa:deploy": "swa login"
   },
   "private": true,
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "@angular/cdk": "^18.0.2",
     "@angular/common": "^18.0.2",
